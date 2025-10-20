@@ -34,8 +34,8 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/michaelduvan/laravel-react-dashboard" target="_blank">
-          <h3>📊 Laravel React Dashboard</h3>
+        <a href="https://github.com/mich471/Appsalon">
+          <h3>📊 Appsalon</h3>
           <p>Modern admin dashboard built with Laravel and React, focused on clean UI and real-time analytics.</p>
         </a>
       </td>

@@ -4,9 +4,8 @@
 </h3>
 
 <p align="center">
- ![unnamed](https://github.com/user-attachments/assets/bb33cf5e-b984-48b8-a270-f576d777b422)
+  <img src="https://github.com/user-attachments/assets/bb33cf5e-b984-48b8-a270-f576d777b422" alt="Banner Michael Duvan Campo Angola" width="100%">
 </p>
-
 
 ## 🚀 About Me
 

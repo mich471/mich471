@@ -3,11 +3,7 @@
   A passionate Full Stack Developer specializing in Magento 2, Laravel, React and Shopify 🇨🇴
 </h3>
 
-<p align="center">
-  <a target="_blank">
-    <img align="right" height="260" width="380" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-  </a>
-</p>
+
 
 ## 🚀 About Me
 

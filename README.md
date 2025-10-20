@@ -53,9 +53,8 @@ Apasionado por construir experiencias digitales potentes, escalables y centradas
 
 ## 📫 Contacto
 
-📧 **Correo:** [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)  
-💼 **LinkedIn:** [linkedin.com/in/<tu-usuario>](https://linkedin.com/in/<tu-usuario>)  
-🌐 **Portafolio:** [https://<tu-dominio>.com](https://<tu-dominio>.com)
+📧 **Correo:** [tucorreo@ejemplo.com](mduvan.campo@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/<tu-usuario>]([https://linkedin.com/in/<tu-usuario>](https://www.linkedin.com/in/michael-duvan-campo-angola/))  
 
 ---
 

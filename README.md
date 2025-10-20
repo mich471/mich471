@@ -26,35 +26,47 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/michaelduvan/magento-integration-api" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=magento-integration-api&theme=dracula"
-      alt="Magento Integration API"
-    />
-  </a>
-  <a href="https://github.com/michaelduvan/laravel-react-dashboard" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=laravel-react-dashboard&theme=dracula"
-      alt="Laravel React Dashboard"
-    />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/michaelduvan/magento-integration-api" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=magento-integration-api&theme=dracula"
+            alt="Magento Integration API"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/michaelduvan/laravel-react-dashboard" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=laravel-react-dashboard&theme=dracula"
+            alt="Laravel React Dashboard"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/michaelduvan/shopify-custom-checkout" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=shopify-custom-checkout&theme=dracula"
+            alt="Shopify Custom Checkout"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/michaelduvan/portfolio" target="_blank">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=portfolio&theme=dracula"
+            alt="Portfolio Website"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="https://github.com/michaelduvan/shopify-custom-checkout" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=shopify-custom-checkout&theme=dracula"
-      alt="Shopify Custom Checkout"
-    />
-  </a>
-  <a href="https://github.com/michaelduvan/portfolio" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=portfolio&theme=dracula"
-      alt="Portfolio Website"
-    />
-  </a>
-</p>
 
 <h3 align="center">🤝 Connect with Me</h3>
 

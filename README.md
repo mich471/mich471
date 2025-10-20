@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michael Duvan Campo Angola</h1>
-<h3 align="center">
+<h1>Hi 👋, I'm Michael Duvan Campo Angola</h1>
+<h3>
   A passionate Full Stack Developer specializing in Magento 2, Laravel, React and Shopify 🇨🇴
 </h3>
 

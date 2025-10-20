@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🧠 Developer with strong experience in **PHP** and modern **eCommerce ecosystems**.  
-- ⚙️ Focused on creating **custom, modular, and high-performance solutions**.  
-- 🌱 Currently deepening my skills in **Magento 2 architecture** and **cloud-based CI/CD workflows**.  
-- 💡 Passionate about scalable backend solutions and clean code design.  
+- 🧠 Developer with strong experience in **PHP** and modern **eCommerce ecosystems**  
+- ⚙️ Focused on creating **custom, modular, and high-performance solutions**  
+- 🌱 Currently deepening my skills in **Magento 2 architecture** and **cloud-based CI/CD workflows**  
+- 💡 Passionate about scalable backend solutions and clean code design  
 
 ## 🛠️ Tech Stack
 
@@ -24,20 +24,16 @@
 **Tools & Others:**  
 `Git` • `Docker` • `Composer` • `npm` • `Vite` • `Tailwind CSS` • `MySQL` • `REST / GraphQL`  
 
----
-
 ## ⚡ Featured Projects
 
 ### 🛍️ Magento 2 eCommerce Solutions
-- Custom module and API development.  
-- Integration with **ERP systems** and payment gateways like **MercadoPago** and **Transbank**.  
-- Performance optimization using **Redis**, **Varnish**, and caching strategies.  
+- Custom module and API development  
+- Integration with **ERP systems** and payment gateways like **MercadoPago** and **Transbank**  
+- Performance optimization using **Redis**, **Varnish**, and caching strategies  
 
 ### ⚙️ Laravel + React Platform
-- Admin panel with roles, permissions, and API integrations.  
-- Dockerized environment with **CI/CD pipelines** on GitHub Actions.  
-
----
+- Admin panel with roles, permissions, and API integrations  
+- Dockerized environment with **CI/CD pipelines** on GitHub Actions  
 
 <h3 align="center">🤝 Connect with Me</h3>
 
@@ -52,8 +48,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png" alt="Email"/>
   </a>
 </p>
-
-
 
 <h4 align="center">
 “Clean and scalable code not only works — it inspires confidence.”  

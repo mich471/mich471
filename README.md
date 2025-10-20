@@ -30,7 +30,7 @@
       <td>
         <a href="https://github.com/michaelduvan/magento-integration-api" target="_blank">
           <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=magento-integration-api&theme=dracula"
+            src="https://github.com/mich471/devstagram"
             alt="Magento Integration API"
           />
         </a>

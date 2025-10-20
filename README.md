@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb33cf5e-b984-48b8-a270-f576d777b422" alt="Banner Michael Duvan Campo Angola" width="100%" height="350">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
 ## 🚀 About Me

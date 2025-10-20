@@ -28,8 +28,8 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/michaelduvan/magento-integration-api" target="_blank">
-          <h3>🧩 Magento Integration API</h3>
+        <a href="https://github.com/mich471/devstagram">
+          <h3>🧩Devstagram</h3>
           <p>Custom API layer that connects Magento 2 with third-party services to improve scalability and automation.</p>
         </a>
       </td>

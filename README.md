@@ -1,67 +1,47 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+![Banner](https://files.oaiusercontent.com/file_00000000a3f861f5bb53485658d653e9)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+# 👋 Hola, soy Michael Duvan Campo Angola
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
+💻 **Desarrollador Full Stack especializado en Magento 2, Laravel, React y Shopify**  
+Apasionado por construir experiencias digitales potentes, escalables y centradas en el usuario.
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+## 🚀 Sobre mí
 
-Last Edited on: 08/08/2022
+- 🧠 Desarrollador con experiencia en **PHP** y ecosistemas modernos de **comercio electrónico**.  
+- ⚙️ Enfocado en crear **soluciones personalizadas**, modulares y optimizadas para rendimiento.  
+- 🌱 Actualmente profundizando en **arquitectura avanzada de Magento 2** y **CI/CD en entornos cloud**.  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 🔹 Lenguajes y frameworks
+`PHP` • `Laravel` • `Magento 2` • `React` • `Shopify` • `JavaScript (ES6+)` • `HTML` • `CSS`
+
+### 🔹 Otras herramientas
+`Git` • `Docker` • `Composer` • `npm` • `Vite` • `Tailwind CSS` • `MySQL` • `REST / GraphQL`
+
+---
+
+## ⚡ Habilidades destacadas
+
+- Desarrollo de módulos y extensiones personalizadas en **Magento 2**  
+- Creación de tiendas y temas personalizados en **Shopify (Liquid)**  
+- Integración de **APIs REST/GraphQL** y manejo de autenticación JWT  
+- Arquitectura de aplicaciones con **Laravel** y patrones de diseño (Repository, Service)  
+- Front-end moderno con **React** y **Vite**  
+- Optimización de rendimiento y estrategias de caching
+
+---
+
+## 💼 Proyectos destacados
+
+### 🛍️ Ecommerce en Magento 2
+- Integración de módulos personalizados para pagos, catálogo y envíos  
+- Optimización de velocidad (Full Page Cache, Redis, Varnish)  
+- Integración con sistemas ERP
+
+> 🔗 Próximamente: añadiré enlaces a repositorios públicos destacados
+

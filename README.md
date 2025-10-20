@@ -8,17 +8,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+## 🚀 Sobre mí
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🧠 Desarrollador con experiencia en **PHP** y ecosistemas modernos de **comercio electrónico**.  
+- ⚙️ Enfocado en crear **soluciones personalizadas**, modulares y optimizadas para rendimiento.  
+- 🌱 Actualmente profundizando en **arquitectura avanzada de Magento 2** y **CI/CD en entornos cloud**.  
 
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
+---
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 

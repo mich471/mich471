@@ -42,11 +42,6 @@ Apasionado por construir experiencias digitales potentes, escalables y centradas
 - Optimización de velocidad (Full Page Cache, Redis, Varnish)  
 - Integración con sistemas ERP
 
-### 🎓 Plataforma educativa (Laravel + React)
-- Panel administrativo con gestión de roles y permisos  
-- Subida de archivos, notificaciones en tiempo real y API interna  
-- Despliegue automatizado con Docker y GitHub Actions
-
 > 🔗 Próximamente: añadiré enlaces a repositorios públicos destacados
 
 ---

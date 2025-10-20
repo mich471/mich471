@@ -3,7 +3,9 @@
   A passionate Full Stack Developer specializing in Magento 2, Laravel, React and Shopify 🇨🇴
 </h3>
 
-
+<p align="center">
+  <img src="https://github.com/michaelduvan/michaelduvan/blob/main/banner.png" alt="Michael Duvan Campo Angola Banner" width="100%" />
+</p>
 
 ## 🚀 About Me
 
@@ -62,7 +64,6 @@
     </tr>
   </table>
 </div>
-
 
 <h3 align="center">🤝 Connect with Me</h3>
 

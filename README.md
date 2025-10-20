@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Duvan Campo Angola</h1>
 <h3 align="center">A passionate Full Stack Developer specializing in Magento 2, Laravel, React and Shopify
- &#127464;&#127476;</h3>
+ &#127464;&#127476;
+</h3>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">

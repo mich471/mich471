@@ -57,15 +57,7 @@
   </a>
 </p>
 
----
 
-## 📫 Contact
-
-📧 **Email:** [mduvan.campo@gmail.com](mailto:mduvan.campo@gmail.com)  
-💼 **LinkedIn:** [michael-duvan-campo-angola](https://www.linkedin.com/in/michael-duvan-campo-angola/)  
-🌐 **GitHub:** [github.com/michaelduvan](https://github.com/michaelduvan)
-
----
 
 <h4 align="center">
 “Clean and scalable code not only works — it inspires confidence.”  

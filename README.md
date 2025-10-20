@@ -27,42 +27,36 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/michaelduvan/magento-integration-api" target="_blank">
-          <p align="center">
-            <img src="https://github.com/user-attachments/assets/0ec5d41f-efda-4a70-85eb-f96505a6e73f" alt="Curtidas 3D" width="250px">
-          </p>
+          <h3>🧩 Magento Integration API</h3>
+          <p>Custom API layer that connects Magento 2 with third-party services to improve scalability and automation.</p>
         </a>
       </td>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/michaelduvan/laravel-react-dashboard" target="_blank">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=laravel-react-dashboard&theme=dracula"
-            alt="Laravel React Dashboard"
-          />
+          <h3>📊 Laravel React Dashboard</h3>
+          <p>Modern admin dashboard built with Laravel and React, focused on clean UI and real-time analytics.</p>
         </a>
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/michaelduvan/shopify-custom-checkout" target="_blank">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=shopify-custom-checkout&theme=dracula"
-            alt="Shopify Custom Checkout"
-          />
+          <h3>🛒 Shopify Custom Checkout</h3>
+          <p>Enhanced checkout flow with custom UI and Shopify API integration for better user experience and conversion.</p>
         </a>
       </td>
-      <td>
+      <td width="50%" align="center">
         <a href="https://github.com/michaelduvan/portfolio" target="_blank">
-          <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=michaelduvan&repo=portfolio&theme=dracula"
-            alt="Portfolio Website"
-          />
+          <h3>💼 Portfolio Website</h3>
+          <p>Personal portfolio showcasing design and full-stack development projects with a focus on clean UX.</p>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 <h3 align="center">🤝 Connect with Me</h3>
 

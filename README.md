@@ -24,16 +24,16 @@
 **Tools & Others:**  
 `Git` • `Docker` • `Composer` • `npm` • `Vite` • `Tailwind CSS` • `MySQL` • `REST / GraphQL`  
 
-## ⚡ Featured Projects
+## ⚡ My Key Projects
 
-### 🛍️ Magento 2 eCommerce Solutions
-- Custom module and API development  
-- Integration with **ERP systems** and payment gateways like **MercadoPago** and **Transbank**  
-- Performance optimization using **Redis**, **Varnish**, and caching strategies  
+- 🛍️ **[Magento ERP Integration](https://github.com/michaelduvan/magento-erp-integration)**  
+  Custom REST API connection between Magento 2 and SAP ERP with real-time inventory sync.
 
-### ⚙️ Laravel + React Platform
-- Admin panel with roles, permissions, and API integrations  
-- Dockerized environment with **CI/CD pipelines** on GitHub Actions  
+- ⚙️ **[Laravel + React Dashboard](https://github.com/michaelduvan/laravel-react-dashboard)**  
+  Admin system with roles, permissions, and analytics using React and Laravel.
+
+- 💳 **[Shopify Custom Checkout](https://github.com/michaelduvan/shopify-custom-checkout)**  
+  Custom checkout workflow integrated with multiple payment gateways. 
 
 <h3 align="center">🤝 Connect with Me</h3>
 

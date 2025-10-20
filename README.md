@@ -29,10 +29,9 @@
     <tr>
       <td>
         <a href="https://github.com/michaelduvan/magento-integration-api" target="_blank">
-          <img
-            src="https://github.com/mich471/devstagram"
-            alt="Magento Integration API"
-          />
+          <p align="center">
+            <img src="https://github.com/user-attachments/assets/0ec5d41f-efda-4a70-85eb-f96505a6e73f" alt="Curtidas 3D" width="250px">
+          </p>
         </a>
       </td>
       <td>

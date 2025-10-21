@@ -76,7 +76,7 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/ecommerce-laravel">
+        <a href="https://github.com/mich471/quisco">
           <h3>Quiosco</h3>
           <p>Fast food ordering platform built with Laravel and React, featuring product management, shopping cart, and real-time order handling through a modern backend and interactive UI.</p>
         </a>

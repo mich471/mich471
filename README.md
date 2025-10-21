@@ -30,8 +30,8 @@
       <td width="50%" align="center">
         <a href="https://github.com/mich471/devstagram" style="text-decoration: none;">
           <strong>🧩 Devstagram</strong><br>
-          Laravel-based social network where users can share photos, follow others, and like posts.
         </a>
+        <p>Laravel-based social network where users can share photos, follow others, and like posts.</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Appsalon" style="text-decoration: none;">

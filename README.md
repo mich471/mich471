@@ -28,29 +28,57 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/devstagram" target="_blank">
+        <a href="https://github.com/mich471/devstagram">
           <h3>🧩 Devstagram</h3>
-          <p>Devstagram is a Laravel-based social network where users can share photos, follow others, and like posts.</p>
+          <p>Laravel-based social network where users can share photos, follow others, and like posts.</p>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Appsalon">
-          <h3>Appsalon</h3>
-          <p>A full-featured beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and an admin dashboard to manage all operations</p>
+          <h3>💈 Appsalon</h3>
+          <p>Beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and admin dashboard.</p>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Uptask">
-          <h3>Uptask</h3>
-          <p>A collaborative project management tool inspired by Trello, featuring task boards, drag-and-drop cards, and real-time team organization.</p>
+          <h3>📋 Uptask</h3>
+          <p>Collaborative project manager inspired by Trello, with boards, drag-and-drop tasks, and team organization.</p>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/binesraices">
-          <h3>Bienes raices</h3>
-          <p>A real estate website with an admin dashboard where agents can publish, edit, and manage property listings with images and details.</p>
+          <h3>🏠 Bienes Raíces</h3>
+          <p>Real estate platform with an admin dashboard to publish, edit, and manage property listings and images.</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/mich471/portfolio">
+          <h3>💼 Portfolio Website</h3>
+          <p>Personal portfolio showcasing design and full-stack development projects with a focus on clean UX/UI.</p>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/mich471/shopify-custom-checkout">
+          <h3>🛒 Shopify Custom Checkout</h3>
+          <p>Enhanced checkout experience with custom UI and Shopify API integration for improved conversions.</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/mich471/laravel-blog">
+          <h3>📝 Laravel Blog</h3>
+          <p>Blog platform built with Laravel, featuring authentication, post management, and responsive design.</p>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/mich471/ecommerce-laravel">
+          <h3>🛍️ E-commerce Platform</h3>
+          <p>Laravel-based online store with product management, shopping cart, and integrated checkout system.</p>
         </a>
       </td>
     </tr>

@@ -35,7 +35,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Appsalon">
-          <h3>💈 Appsalon</h3>
+          <h3>💈Appsalon</h3>
           <p>Beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and admin dashboard.</p>
         </a>
       </td>
@@ -43,13 +43,13 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Uptask">
-          <h3>📋 Uptask</h3>
+          <h3>Uptask</h3>
           <p>Collaborative project manager inspired by Trello, with boards, drag-and-drop tasks, and team organization.</p>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/binesraices">
-          <h3>🏠 Bienes Raíces</h3>
+          <h3>Bienes Raíces</h3>
           <p>Real estate platform with an admin dashboard to publish, edit, and manage property listings and images.</p>
         </a>
       </td>
@@ -77,8 +77,8 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/ecommerce-laravel">
-          <h3>🛍️ E-commerce Platform</h3>
-          <p>Laravel-based online store with product management, shopping cart, and integrated checkout system.</p>
+          <h3>Quiosco</h3>
+          <p>Fast food ordering platform built with Laravel and React, featuring product management, shopping cart, and real-time order handling through a modern backend and interactive UI.</p>
         </a>
       </td>
     </tr>

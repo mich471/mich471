@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/laravel-blog">
+        <a href="https://github.com/mich471/Devjobs">
           <h3>Devjobs</h3>
           <p>A professional networking platform built with Laravel, allowing users to create profiles, connect with others, share posts, and showcase their career experience.</p>
         </a>

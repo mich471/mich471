@@ -34,21 +34,21 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/Appsalon" target="_blank">
-          <h3>📊 Appsalon</h3>
+        <a href="https://github.com/mich471/Appsalon">
+          <h3>Appsalon</h3>
           <p>A full-featured beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and an admin dashboard to manage all operations</p>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/michaelduvan/shopify-custom-checkout" target="_blank">
+        <a href="https://github.com/mich471/Uptask">
           <h3>Uptask</h3>
           <p>A collaborative project management tool inspired by Trello, featuring task boards, drag-and-drop cards, and real-time team organization.</p>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/michaelduvan/portfolio" target="_blank">
+        <a href="https://github.com/mich471/binesraices">
           <h3>Bienes raices</h3>
           <p>A real estate website with an admin dashboard where agents can publish, edit, and manage property listings with images and details.</p>
         </a>

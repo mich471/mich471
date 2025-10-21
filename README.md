@@ -36,50 +36,50 @@
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Appsalon" style="text-decoration: none;">
           <strong>💈 Appsalon</strong><br>
-          Beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and admin dashboard.
         </a>
+        <p> Beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and admin dashboard.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Uptask" style="text-decoration: none;">
           <strong>📋 Uptask</strong><br>
-          Collaborative project manager inspired by Trello, with boards, drag-and-drop tasks, and team organization.
         </a>
+        <p>Collaborative project manager inspired by Trello, with boards, drag-and-drop tasks, and team organization.</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/binesraices" style="text-decoration: none;">
           <strong>🏠 Bienes Raíces</strong><br>
-          Real estate platform with an admin dashboard to publish, edit, and manage property listings and images.
         </a>
+        <p>Real estate platform with an admin dashboard to publish, edit, and manage property listings and images.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/DevWebCamp" style="text-decoration: none;">
           <strong>🎟️ DevWebCamp</strong><br>
-          Tech conference website for ticket sales, featuring speaker profiles, expertise areas, schedules, and event details.
         </a>
+        <p>  Tech conference website for ticket sales, featuring speaker profiles, expertise areas, schedules, and event details.</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/saltoafro" style="text-decoration: none;">
           <strong>🎓 SaltoAfro</strong><br>
-          Academic scholarship platform connecting students with universities, events, and student projects with voting features.
         </a>
+        <p> Academic scholarship platform connecting students with universities, events, and student projects with voting features.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Devjobs" style="text-decoration: none;">
           <strong>💼 Devjobs</strong><br>
-          A professional networking platform built with Laravel, allowing users to create profiles, connect, and share their experience.
         </a>
+        <p>A professional networking platform built with Laravel, allowing users to create profiles, connect, and share their experience.</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/quisco" style="text-decoration: none;">
           <strong>🍔 Quiosco</strong><br>
-          Fast food ordering platform built with Laravel and React, featuring product management, shopping cart, and real-time orders.
         </a>
+        <p> Fast food ordering platform built with Laravel and React, featuring product management, shopping cart, and real-time orders.</p>
       </td>
     </tr>
   </table>

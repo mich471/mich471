@@ -62,7 +62,7 @@
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/shopify-custom-checkout">
+        <a href="https://github.com/mich471/saltoafro">
           <h3>SaltoAfro</h3>
           <p>Academic scholarship platform that connects students with universities, shares event information, showcases student projects with voting features, and includes authentication for both students and administrators.</p>
         </a>

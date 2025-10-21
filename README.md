@@ -36,7 +36,7 @@
       <td width="50%" align="center">
         <a href="https://github.com/mich471/Appsalon" target="_blank">
           <h3>📊 Appsalon</h3>
-          <p>Modern admin dashboard built with Laravel and React, focused on clean UI and real-time analytics.</p>
+          <p>A full-featured beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and an admin dashboard to manage all operations</p>
         </a>
       </td>
     </tr>

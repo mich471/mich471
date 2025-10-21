@@ -43,14 +43,14 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/michaelduvan/shopify-custom-checkout" target="_blank">
-          <h3>🛒 Shopify Custom Checkout</h3>
-          <p>Enhanced checkout flow with custom UI and Shopify API integration for better user experience and conversion.</p>
+          <h3>Uptask</h3>
+          <p>A collaborative project management tool inspired by Trello, featuring task boards, drag-and-drop cards, and real-time team organization.</p>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/michaelduvan/portfolio" target="_blank">
-          <h3>💼 Portfolio Website</h3>
-          <p>Personal portfolio showcasing design and full-stack development projects with a focus on clean UX.</p>
+          <h3>Bienes raices</h3>
+          <p>A real estate website with an admin dashboard where agents can publish, edit, and manage property listings with images and details.</p>
         </a>
       </td>
     </tr>

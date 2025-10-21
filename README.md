@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/portfolio">
+        <a href="https://github.com/mich471/DevWebCamp">
           <h3>DevWebCan</h3>
           <p>Tech conference website for ticket sales, featuring speaker profiles, expertise areas, schedules, and event details. Includes ticket limits, premium options, and multiple pass types for an enhanced experience</p>
         </a>

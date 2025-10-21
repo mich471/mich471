@@ -28,13 +28,13 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/devstagram">
-          <h3>🧩Devstagram</h3>
-          <p>CDevstagram is a Laravel-based social network where users can share photos, follow others, and like posts.</p>
+        <a href="https://github.com/mich471/devstagram" target="_blank">
+          <h3>🧩 Devstagram</h3>
+          <p>Devstagram is a Laravel-based social network where users can share photos, follow others, and like posts.</p>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/Appsalon">
+        <a href="https://github.com/mich471/Appsalon" target="_blank">
           <h3>📊 Appsalon</h3>
           <p>Modern admin dashboard built with Laravel and React, focused on clean UI and real-time analytics.</p>
         </a>

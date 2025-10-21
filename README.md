@@ -57,8 +57,8 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/portfolio">
-          <h3>💼 Portfolio Website</h3>
-          <p>Personal portfolio showcasing design and full-stack development projects with a focus on clean UX/UI.</p>
+          <h3>DevWebCan</h3>
+          <p>Tech conference website for ticket sales, featuring speaker profiles, expertise areas, schedules, and event details. Includes ticket limits, premium options, and multiple pass types for an enhanced experience</p>
         </a>
       </td>
       <td width="50%" align="center">

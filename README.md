@@ -28,62 +28,63 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/devstagram">
-          <h3>🧩 Devstagram</h3>
-          <p>Laravel-based social network where users can share photos, follow others, and like posts.</p>
+        <a href="https://github.com/mich471/devstagram" style="text-decoration: none;">
+          <strong>🧩 Devstagram</strong><br>
+          Laravel-based social network where users can share photos, follow others, and like posts.
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/Appsalon">
-          <h3>💈Appsalon</h3>
-          <p>Beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and admin dashboard.</p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/mich471/Uptask">
-          <h3>Uptask</h3>
-          <p>Collaborative project manager inspired by Trello, with boards, drag-and-drop tasks, and team organization.</p>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/mich471/binesraices">
-          <h3>Bienes Raíces</h3>
-          <p>Real estate platform with an admin dashboard to publish, edit, and manage property listings and images.</p>
+        <a href="https://github.com/mich471/Appsalon" style="text-decoration: none;">
+          <strong>💈 Appsalon</strong><br>
+          Beauty salon and barbershop platform with service pricing, product sales, appointment scheduling, and admin dashboard.
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/DevWebCamp">
-          <h3>DevWebCan</h3>
-          <p>Tech conference website for ticket sales, featuring speaker profiles, expertise areas, schedules, and event details. Includes ticket limits, premium options, and multiple pass types for an enhanced experience</p>
+        <a href="https://github.com/mich471/Uptask" style="text-decoration: none;">
+          <strong>📋 Uptask</strong><br>
+          Collaborative project manager inspired by Trello, with boards, drag-and-drop tasks, and team organization.
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/saltoafro">
-          <h3>SaltoAfro</h3>
-          <p>Academic scholarship platform that connects students with universities, shares event information, showcases student projects with voting features, and includes authentication for both students and administrators.</p>
+        <a href="https://github.com/mich471/binesraices" style="text-decoration: none;">
+          <strong>🏠 Bienes Raíces</strong><br>
+          Real estate platform with an admin dashboard to publish, edit, and manage property listings and images.
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/Devjobs">
-          <h3>Devjobs</h3>
-          <p>A professional networking platform built with Laravel, allowing users to create profiles, connect with others, share posts, and showcase their career experience.</p>
+        <a href="https://github.com/mich471/DevWebCamp" style="text-decoration: none;">
+          <strong>🎟️ DevWebCamp</strong><br>
+          Tech conference website for ticket sales, featuring speaker profiles, expertise areas, schedules, and event details.
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mich471/quisco">
-          <h3>Quiosco</h3>
-          <p>Fast food ordering platform built with Laravel and React, featuring product management, shopping cart, and real-time order handling through a modern backend and interactive UI.</p>
+        <a href="https://github.com/mich471/saltoafro" style="text-decoration: none;">
+          <strong>🎓 SaltoAfro</strong><br>
+          Academic scholarship platform connecting students with universities, events, and student projects with voting features.
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/mich471/Devjobs" style="text-decoration: none;">
+          <strong>💼 Devjobs</strong><br>
+          A professional networking platform built with Laravel, allowing users to create profiles, connect, and share their experience.
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/mich471/quisco" style="text-decoration: none;">
+          <strong>🍔 Quiosco</strong><br>
+          Fast food ordering platform built with Laravel and React, featuring product management, shopping cart, and real-time orders.
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <h3 align="center">🤝 Connect with Me</h3>

@@ -63,8 +63,8 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mich471/shopify-custom-checkout">
-          <h3>🛒 Shopify Custom Checkout</h3>
-          <p>Enhanced checkout experience with custom UI and Shopify API integration for improved conversions.</p>
+          <h3>SaltoAfro</h3>
+          <p>Academic scholarship platform that connects students with universities, shares event information, showcases student projects with voting features, and includes authentication for both students and administrators.</p>
         </a>
       </td>
     </tr>

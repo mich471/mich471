@@ -30,7 +30,7 @@
       <td width="50%" align="center">
         <a href="https://github.com/mich471/devstagram">
           <h3>🧩Devstagram</h3>
-          <p>Custom API layer that connects Magento 2 with third-party services to improve scalability and automation.</p>
+          <p>CDevstagram is a Laravel-based social network where users can share photos, follow others, and like posts.</p>
         </a>
       </td>
       <td width="50%" align="center">
